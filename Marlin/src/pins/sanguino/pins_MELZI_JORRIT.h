@@ -57,6 +57,8 @@
 #undef FAN_PIN
 */
 
+#define LCD_SDSS                             31
+
 //
 // Limit Switches
 //
